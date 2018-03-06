@@ -14,6 +14,12 @@ This repositary provides an parallel (with OpenMP) algorithm to solve the neutri
 
 ## Documentation
 
+### Requirement
+
+1. OpenMP is required
+2. Boost is optional
+3. C++11 standard
+
 ### Model
 
 The model that we are solving is the line model.
