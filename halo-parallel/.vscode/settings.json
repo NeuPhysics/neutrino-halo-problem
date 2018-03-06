@@ -1,0 +1,30 @@
+{
+   "files.associations": {
+      "iostream": "cpp",
+      "__locale": "cpp",
+      "codecvt": "cpp",
+      "fstream": "cpp",
+      "locale": "cpp",
+      "string": "cpp",
+      "iterator": "cpp",
+      "ostream": "cpp",
+      "__tuple": "cpp",
+      "array": "cpp",
+      "iosfwd": "cpp",
+      "cmath": "cpp",
+      "vector": "cpp",
+      "*.ipp": "cpp",
+      "string_view": "cpp",
+      "__string": "cpp",
+      "bitset": "cpp",
+      "algorithm": "cpp",
+      "chrono": "cpp",
+      "limits": "cpp",
+      "valarray": "cpp",
+      "complex": "cpp",
+      "__functional_03": "cpp",
+      "functional": "cpp",
+      "memory": "cpp",
+      "utility": "cpp"
+   }
+}
